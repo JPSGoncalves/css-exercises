@@ -1,0 +1,15 @@
+.click,
+.noclick {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.click {
+    color: white;
+    background-color: black;
+}
+
+.noclick {
+    color: black;
+    background-color: yellow;
+}
